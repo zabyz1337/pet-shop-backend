@@ -119,3 +119,8 @@ axios.post('http://localhost:3333/order/send', orderData, {
 - SQLite
 - Cors
 - Axios
+
+## Frontend
+
+Frontend repository:
+https://github.com/zabyz1337/pet-shop-project
